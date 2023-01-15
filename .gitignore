@@ -1,4 +1,4 @@
 # ignore myEnv
-MyEnv
+/MyEnv
 # static
-static
+/static
